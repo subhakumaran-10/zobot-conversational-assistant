@@ -31,9 +31,6 @@ To design and implement a functional chatbot using a no-code platform and demons
 ## 📂 Project Files
 This repository contains the exported chatbot configuration downloaded from the Zoho SalesIQ Zobot platform.
 
-## 📸 Screenshots / Demo
-(Add screenshots of your bot flow, conversation preview, and builder interface here)
-
 ## ✅ Project Status
 Completed ✔️  
 This project is created for academic learning and demonstration purposes.
